@@ -1,5 +1,5 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.u6amtech.flutter_grocery">
+    package="com.tarchia.foodholic">
     <!-- io.flutter.app.FlutterApplication is an android.app.Application that
          calls FlutterMain.startInitialization(this); in its onCreate method.
          In most cases you can leave this as-is, but you if you want to provide
@@ -29,10 +29,10 @@
         android:icon="@mipmap/ic_launcher"
         android:requestLegacyExternalStorage="true"
         android:usesCleartextTraffic="true"
-        android:label="GroFresh">
+        android:label="Foodholic : Cloud Kitchen">
         <meta-data
             android:name="com.google.android.geo.API_KEY"
-            android:value="AIzaSyD6ToXeb6P0NkorrEh5QOO9C-yydafSo-4" />
+            android:value="AIzaSyBaXOJSvEUnK9KEzBewV4vuPmjB-rVcbLM" />
 
         <activity
             android:name=".MainActivity"

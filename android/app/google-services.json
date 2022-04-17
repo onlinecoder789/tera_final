@@ -1,33 +1,62 @@
 {
   "project_info": {
-    "project_number": "250728969979",
-    "project_id": "grofresh-3986f",
-    "storage_bucket": "grofresh-3986f.appspot.com"
+    "project_number": "928294109945",
+    "project_id": "foodholic-9ed83",
+    "storage_bucket": "foodholic-9ed83.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:250728969979:android:375fde0efc7db10a75a25e",
+        "mobilesdk_app_id": "1:928294109945:android:e0bde7bf95806497dc1828",
         "android_client_info": {
-          "package_name": "com.u6amtech.flutter_grocery"
+          "package_name": "com.tarchia.foodholic"
         }
       },
       "oauth_client": [
         {
-          "client_id": "250728969979-9nqsmhb458assn7q1a68cgasgg5q5mtg.apps.googleusercontent.com",
+          "client_id": "928294109945-jensqktn9kll178ptmc748rv3gmlhr3u.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyDTFm7oPur3xhZbVmCkgFkGFcR-44h6Gyo"
+          "current_key": "AIzaSyAfYbSkq6QgpLWmBEJGsGGfbgOaH0T6xz8"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "250728969979-9nqsmhb458assn7q1a68cgasgg5q5mtg.apps.googleusercontent.com",
+              "client_id": "928294109945-jensqktn9kll178ptmc748rv3gmlhr3u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:928294109945:android:5a11d61e5adc55a5dc1828",
+        "android_client_info": {
+          "package_name": "com.tarchia.foodholic_delivery"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "928294109945-jensqktn9kll178ptmc748rv3gmlhr3u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfYbSkq6QgpLWmBEJGsGGfbgOaH0T6xz8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "928294109945-jensqktn9kll178ptmc748rv3gmlhr3u.apps.googleusercontent.com",
               "client_type": 3
             }
           ]

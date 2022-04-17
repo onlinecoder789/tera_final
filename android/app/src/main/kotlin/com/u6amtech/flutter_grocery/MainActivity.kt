@@ -1,4 +1,4 @@
-package com.u6amtech.flutter_grocery
+package com.tarchia.foodholic
 
 import io.flutter.embedding.android.FlutterActivity
 
