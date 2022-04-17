@@ -6,7 +6,7 @@ import '../provider/theme_provider.dart';
 class Images {
   // SVG
   static const String more_icon = 'assets/image/more_icon.png';
-  static const String england_flag = 'assets/image/england.png';
+  static const String india_flag = 'assets/image/india.png';
   static const String maintenance = 'assets/image/maintenance.png';
   static const String chat = 'assets/image/chat.png';
   static const String language = 'assets/image/language.png';
@@ -26,7 +26,6 @@ class Images {
   static const String about_us = 'assets/image/about_us.png';
   static const String privacy = 'assets/image/privacy.png';
   static const String lock = 'assets/image/lock.png';
-  static const String grofresh_text = 'assets/image/GroFresh.png';
   static const String search = 'assets/image/search.png';
   static const String profile = 'assets/image/profile.png';
   static const String notification = 'assets/image/notification.png';
@@ -34,7 +33,6 @@ class Images {
   static const String terms_and_conditions = 'assets/image/terms_and_conditions.png';
   static const String login = 'assets/image/login.png';
   static const String close = 'assets/image/clear.png';
-  static const String arabic_flag = 'assets/image/arabic.png';
   static const String support = 'assets/image/support.png';
   static const String profile_placeholder = 'assets/image/pro_place_holder.png';
 

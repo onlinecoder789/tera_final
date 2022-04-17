@@ -294,11 +294,11 @@
   "order_note" : "Order Note",
   "variation": "Variations",
   "my_account": "My Account",
-  "copyright": "copyright © 2022",
+  "copyright": "copyright © Foodholic 2022",
   "extra_discount": "Extra discount",
   "you_denied_location_permission": "You denied location permission forever. You have to allow location permission to add a new address",
   "service_is_not_available": "Service is not available",
-  "your_app_is_deprecated": "Your app is deprecated",
+  "your_app_is_deprecated": "Please Update your app to continue",
   "update_now": "Update Now",
   "can_not_launch": "can not launch"
 

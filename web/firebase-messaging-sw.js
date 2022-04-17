@@ -2,12 +2,12 @@ importScripts("https://www.gstatic.com/firebasejs/8.10.0/firebase-app.js");
 importScripts("https://www.gstatic.com/firebasejs/8.10.0/firebase-messaging.js");
 
 firebase.initializeApp({
-  apiKey: "AIzaSyCaCSJ0BZItSyXqBv8vpD1N4WBffJeKhLQ",
-  authDomain: "grofresh-3986f.firebaseapp.com",
-  projectId: "grofresh-3986f",
-  storageBucket: "grofresh-3986f.appspot.com",
-  messagingSenderId: "250728969979",
-  appId: "1:250728969979:web:b79642a7b2d2400b75a25e",
+  apiKey: "AIzaSyDNFpZzBcrERF_NXkac42wSEeY-GiOYzXk",
+  authDomain: "foodholic-9ed83.firebaseapp.com",
+  projectId: "foodholic-9ed83",
+  storageBucket: "foodholic-9ed83.appspot.com",
+  messagingSenderId: "928294109945",
+  appId: "1:928294109945:web:fc1d825b8fcd2e93dc1828",
   databaseURL: "...",
 });
 

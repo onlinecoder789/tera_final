@@ -56,7 +56,7 @@ class MenuScreenWeb extends StatelessWidget {
                                         '${profileProvider.userInfoModel.email ?? ''}',
                                         style: poppinsRegular.copyWith(color: ColorResources.getTextColor(context)),
                                       ) : SizedBox(height: 15, width: 100) : Text(
-                                        'demo@demo.com',
+                                        '',
                                         style: poppinsRegular.copyWith(fontSize: Dimensions.FONT_SIZE_EXTRA_LARGE, color: ColorResources.getTextColor(context)),
                                       ),
                                      /* SizedBox(height: Dimensions.PADDING_SIZE_SMALL),

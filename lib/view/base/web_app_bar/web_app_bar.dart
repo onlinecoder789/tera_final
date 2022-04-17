@@ -239,7 +239,7 @@ class _WebAppBarState extends State<WebAppBar> {
                                     ) ),
                                 // SizedBox(height: 50,child: Image.asset(Images.app_logo,fit: BoxFit.fitHeight,color: Theme.of(context).primaryColor)),
                                 SizedBox(width: Dimensions.PADDING_SIZE_SMALL),
-                                // SizedBox(height: 25,child: Image.asset(Images.grofresh_text,fit: BoxFit.contain,color: Theme.of(context).primaryColor)),
+                                
                               ],
                             ),
                           ),

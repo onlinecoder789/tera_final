@@ -79,12 +79,12 @@ class AppConstants {
   static const String USER_ADDRESS = 'user_address';
   static const String USER_NUMBER = 'user_number';
   static const String SEARCH_ADDRESS = 'search_address';
-  static const String TOPIC = 'grofresh';
+  static const String TOPIC = 'FoodHolic';
   static const String ON_BOARDING_SKIP = 'on_boarding_skip';
 
   static List<LanguageModel> languages = [
     LanguageModel(
-        imageUrl: Images.england_flag,
+        imageUrl: Images.india_flag,
         languageName: 'English',
         countryCode: 'US',
         languageCode: 'en'),
