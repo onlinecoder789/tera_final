@@ -1,11 +1,11 @@
 {
-    "name": "flutter_grocery",
-    "short_name": "flutter_grocery",
+    "name": "FoodHolic",
+    "short_name": "FoodHolic",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "A new Flutter project.",
+    "description": "It's a Food Adventure",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [

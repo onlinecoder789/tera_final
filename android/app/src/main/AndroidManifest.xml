@@ -29,7 +29,7 @@
         android:icon="@mipmap/ic_launcher"
         android:requestLegacyExternalStorage="true"
         android:usesCleartextTraffic="true"
-        android:label="Foodholic : Cloud Kitchen">
+        android:label="Foodholic">
         <meta-data
             android:name="com.google.android.geo.API_KEY"
             android:value="AIzaSyBaXOJSvEUnK9KEzBewV4vuPmjB-rVcbLM" />

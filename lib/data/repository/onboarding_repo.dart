@@ -18,6 +18,7 @@ class OnBoardingRepo {
         OnBoardingModel(Images.on_boarding_1, getTranslated('select_your_items_to_buy', context), getTranslated('onboarding_1_text', context)),
         OnBoardingModel(Images.on_boarding_2, getTranslated('order_item_from_your_shopping_bag', context), getTranslated('onboarding_2_text', context)),
         OnBoardingModel(Images.on_boarding_3, getTranslated('our_system_delivery_item_to_you', context), getTranslated('onboarding_3_text', context)),
+        OnBoardingModel(Images.on_boarding_4, getTranslated('get_your_order_at_doorstep', context), getTranslated('onboarding_4_text', context)),
       ];
 
       Response response = Response(requestOptions: RequestOptions(path: ''), data: onBoardingList, statusCode: 200);
